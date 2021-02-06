@@ -10,4 +10,4 @@ To run the project:
 
 ![alt text](https://github.com/LostStruct24/Covid19-Tracker/blob/master/src/images/Covid19Tracker.png)
 
-![alt text](https://github.com/LostStruct24/Covid19-Tracker/blob/main/src/images/2.png)
+![alt text](https://github.com/LostStruct24/Covid19-Tracker/blob/master/src/images/2.png)
