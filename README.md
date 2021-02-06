@@ -1,4 +1,4 @@
-Covid-19 Tracker Application Made with ReactJs.
+# Covid-19 Tracker Application Made with ReactJs.
 
 API: https://covid19.mathdro.id/api
 
